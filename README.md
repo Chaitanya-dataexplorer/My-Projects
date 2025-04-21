@@ -1,9 +1,4 @@
 # RFM Analysis Project
-
-<p align="center">
-  <img src="[your-banner-image-link](https://www.canva.com/design/DAGlSuIVVpI/0M1kr7jCHwdK4CvRfH9HsA/view?utm_content=DAGlSuIVVpI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0aefd60a0d)" alt="Project Banner" width="600"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/Libraries-pandas%20%7C%20plotly-orange" alt="Libraries Used">
