@@ -65,7 +65,7 @@ Git, GitHub, minitab, Google Sheets, Advanced Excel Formulas, FEMA Documentation
 - **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/data-explorer-bhaleraochaitanya)
 - **GitHub:** [Your GitHub Profile](https://github.com/Chaitanya-dataexplorer)
 - **BOLD Profile:** [View My Bold Profile](https://bold.pro/my/chaitanya-bhalerao)
-- **Email:** bhaleraochaitanya82#gmail.com
+- **Email:** bhaleraochaitanya82@gmail.com
 ---
 
 **_"Turning Data into Decisions."_** 🎯
