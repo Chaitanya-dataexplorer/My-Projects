@@ -65,8 +65,4 @@ Ensure your dataset is correctly formatted and stored locally with the path upda
 
 The project relies on specific libraries for data handling, statistical modeling, and plotting.
 
-## 📄 License
-
-[MIT License](LICENSE)
-
 ---
