@@ -1,4 +1,4 @@
-# 🚀 My Data Analytics, Data Engineering, and Data Science Portfolio
+# 🚀 My Data & Business Analytics, Data Engineering, and Data Science Portfolio
 
 Welcome to my project repository!  
 This space showcases my journey, skills, and projects across **Data Analysis**, **Data Engineering**, and **Data Science**.  
