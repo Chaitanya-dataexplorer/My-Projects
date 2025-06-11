@@ -8,7 +8,7 @@ I am passionate about turning raw data into actionable insights, building scalab
 
 ## 👨‍💻 About Me
 
-- **Data Analyst | Data Engineer | Aspiring Data Scientist**
+- **Data & Business Analyst | Data Engineer | Aspiring Data Scientist**
 - 4+ years of professional experience working in manufacturing, finance, and analytics domains.
 - Strong foundation in statistics, business analytics, financial modeling, and data engineering pipelines.
 - Proven ability to drive actionable business insights and deliver data-driven solutions.
